@@ -1,0 +1,205 @@
+{
+  "note": "Placeholders: {amount}, {merchant}, {count}, {category}, {percent}, {days}, {equivalent}",
+  "templates": [
+    {
+      "trigger": "high_food_delivery",
+      "text": "You spent ₹{amount} on {merchant} this month. That's {equivalent} plates of dal chawal your mom makes for free 🫠"
+    },
+    {
+      "trigger": "high_food_delivery",
+      "text": "Food delivery apps should give you a loyalty crown. ₹{amount} in {count} orders. Your kitchen is gathering dust 🍳"
+    },
+    {
+      "trigger": "high_food_delivery",
+      "text": "₹{amount} on food delivery. The delivery guy knows your address better than your friends do 🏍️"
+    },
+    {
+      "trigger": "high_transport",
+      "text": "₹{amount} on cabs this month. At this rate, buy a cycle — it pays for itself in 2 months 🚲"
+    },
+    {
+      "trigger": "high_transport",
+      "text": "You spent ₹{amount} on cab rides. That's {equivalent} months of metro pass 🚇"
+    },
+    {
+      "trigger": "high_shopping",
+      "text": "₹{amount} on shopping. Your wardrobe is growing faster than your savings account 👗"
+    },
+    {
+      "trigger": "high_shopping",
+      "text": "Online shopping got ₹{amount} from you in {count} orders. Uninstall the app for a week. Dare you 📦"
+    },
+    {
+      "trigger": "weekend_binge",
+      "text": "Fri-Sun you spent ₹{amount}. That's {percent}% of your weekly spend in just 2 days. Weekends are expensive friends 🎉"
+    },
+    {
+      "trigger": "late_night",
+      "text": "Your midnight cravings cost ₹{amount} this month. Nothing good happens after 10pm — especially to your wallet 🌙"
+    },
+    {
+      "trigger": "late_night",
+      "text": "₹{amount} on late-night orders. Your 11pm self is sabotaging your savings goals 😴"
+    },
+    {
+      "trigger": "salary_day_spike",
+      "text": "Day 1 after salary: ₹{amount} gone. Rich for 3 days, broke for 27. The classic cycle 💸"
+    },
+    {
+      "trigger": "salary_day_spike",
+      "text": "You spent {percent}% of your salary in the first 3 days. Maybe hide your UPI app on payday? 🙈"
+    },
+    {
+      "trigger": "subscription_waste",
+      "text": "You're paying ₹{amount}/month for {count} subscriptions. {merchant} — when did you last open it? 👻"
+    },
+    {
+      "trigger": "subscription_waste",
+      "text": "₹{amount}/month in subscriptions = ₹{equivalent}/year. That's a weekend trip to Goa. Just saying ✈️"
+    },
+    {
+      "trigger": "coffee_habit",
+      "text": "₹{amount} on coffee this month. You're basically funding someone's MBA at the café ☕"
+    },
+    {
+      "trigger": "coffee_habit",
+      "text": "Coffee count: {count} cups bought outside. A French press costs ₹1,500 and pays for itself in a week ☕"
+    },
+    {
+      "trigger": "atm_charges",
+      "text": "ATM charges: ₹{amount}. You're literally paying to access your own money. Switch to UPI 🏧"
+    },
+    {
+      "trigger": "overall_good",
+      "text": "Actually… you did well this week! Only ₹{amount} spent with {percent}% in needs. Proud of you 🌟"
+    },
+    {
+      "trigger": "overall_good",
+      "text": "Savings rate: {percent}%. You're in the top 20% of responsible spenders in India. Keep going 🏆"
+    },
+    {
+      "trigger": "below_budget",
+      "text": "₹{amount} under budget! That's {equivalent} extra chai breaks you earned guilt-free ☕"
+    },
+    {
+      "trigger": "general",
+      "text": "This week: {count} transactions, ₹{amount} spent. That's ₹{equivalent} per transaction. Lots of small buys add up! 🔢"
+    },
+    {
+      "trigger": "general",
+      "text": "You made {count} purchases this week. That's {equivalent} times you said 'yes' to spending. How many were necessary? 🤔"
+    },
+    {
+      "trigger": "food_vs_home",
+      "text": "Food outside: ₹{amount}. Average home meal cost: ₹80. You could've eaten {equivalent} home meals instead 🏠"
+    },
+    {
+      "trigger": "entertainment_high",
+      "text": "₹{amount} on entertainment. Your future self watching you from 2030: 'Could've been in my mutual fund' 📈"
+    },
+    {
+      "trigger": "emi_heavy",
+      "text": "EMIs eating {percent}% of your income. You're working {days} days/month just to pay past purchases 📅"
+    },
+    {
+      "trigger": "impulse_pattern",
+      "text": "You made {count} purchases under ₹200 this week. Small leaks sink big ships — total: ₹{amount} 💧"
+    },
+    {
+      "trigger": "category_single",
+      "text": "{category} is {percent}% of all spending. That one category is eating your budget alive 🐛"
+    },
+    {
+      "trigger": "comparison_self",
+      "text": "This month vs last month: {percent}% more. What changed? Let's find the leak 🔍"
+    },
+    {
+      "trigger": "comparison_self_good",
+      "text": "This month: {percent}% less than last month! Whatever you're doing, keep doing it! 📉✅"
+    },
+    {
+      "trigger": "festive_overspend",
+      "text": "Festive month damage: ₹{amount} over budget. The festivals are over but the credit card bill isn't 🎆"
+    },
+    {
+      "trigger": "recurring_increase",
+      "text": "{merchant} increased from ₹{amount} to ₹{equivalent}. Sneaky price hike! Time to re-evaluate? 📈"
+    },
+    {
+      "trigger": "unused_subscription",
+      "text": "You've paid ₹{amount} to {merchant} for {days} days without using it. That's a ghost subscription 👻"
+    },
+    {
+      "trigger": "weekend_vs_weekday",
+      "text": "Weekday you: ₹{amount}/day. Weekend you: ₹{equivalent}/day. They're different people 🎭"
+    },
+    {
+      "trigger": "morning_vs_night",
+      "text": "Your spending peaks at {equivalent}pm. That's when your willpower is lowest. Schedule a walk instead! 🚶"
+    },
+    {
+      "trigger": "payday_countdown",
+      "text": "₹{amount} left. {days} days to payday. That's ₹{equivalent}/day. Choose wisely 🎯"
+    },
+    {
+      "trigger": "savings_milestone",
+      "text": "You crossed ₹{amount} in monthly savings! That's {equivalent} months ahead. Financial freedom loading… ⏳"
+    },
+    {
+      "trigger": "first_week",
+      "text": "Welcome to your first weekly roast! You spent ₹{amount} across {count} transactions. Let's see how next week goes 👀"
+    },
+    {
+      "trigger": "streak_no_spend",
+      "text": "{days} no-spend days this month! Each one saved you an average ₹{amount}. Total saved: ₹{equivalent} 🏅"
+    },
+    {
+      "trigger": "auto_debit_day",
+      "text": "Auto-debits hit today: ₹{amount} across {count} services. Review: do you use all of them? 🤖"
+    },
+    {
+      "trigger": "grocery_pattern",
+      "text": "Groceries: ₹{amount}. Pro tip: Buy in bulk on weekdays (cheaper), avoid weekend supermarket impulse buys 🛒"
+    },
+    {
+      "trigger": "health_spend",
+      "text": "₹{amount} on health this month. Good investment! But check if a health insurance plan covers any of this 💊"
+    },
+    {
+      "trigger": "split_advice",
+      "text": "You paid {count} group bills this month (₹{amount}). Friendly reminder: it's okay to ask people to pay their share 🤝"
+    },
+    {
+      "trigger": "repeat_merchant",
+      "text": "You visited {merchant} {count} times in {days} days. VIP customer! But also ₹{amount} poorer 🏪"
+    },
+    {
+      "trigger": "decline_month",
+      "text": "Your biggest expense this month: ₹{amount} on {merchant}. Was it planned? If not, what triggered it? 🧠"
+    },
+    {
+      "trigger": "two_am_order",
+      "text": "A 2AM food order for ₹{amount}. At that hour, a glass of water and sleep are both free and healthier 😴"
+    },
+    {
+      "trigger": "daily_avg_high",
+      "text": "Daily average: ₹{amount}. That's ₹{equivalent}/year. Visualize ₹{equivalent} in cash. Scary, right? 💰"
+    },
+    {
+      "trigger": "positive_trend",
+      "text": "Spending down {percent}% from last week! Your wallet is smiling. Keep this up! 😊📉"
+    },
+    {
+      "trigger": "negative_trend",
+      "text": "Spending up {percent}% from last week. Not a disaster, but let's course-correct before month-end ⚡"
+    },
+    {
+      "trigger": "movie_equivalent",
+      "text": "You spent ₹{amount} on {category}. That's {equivalent} movie tickets. Was it as entertaining? 🎬"
+    },
+    {
+      "trigger": "charity_angle",
+      "text": "You spent ₹{amount} on impulse buys this month. Same amount could feed a family for {days} days. Perspective! 🙏"
+    }
+  ]
+}

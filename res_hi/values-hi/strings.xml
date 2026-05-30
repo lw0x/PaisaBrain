@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पैसा ब्रेन</string>
+    <string name="app_tagline">सब याद रखता है। किसी को नहीं बताता।</string>
+    <string name="nav_money">पैसा</string>
+    <string name="nav_vault">वॉल्ट</string>
+    <string name="nav_insights">इनसाइट्स</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="money_today_spent">आज खर्च</string>
+    <string name="money_month_budget">मासिक बजट</string>
+    <string name="money_remaining">बचा हुआ</string>
+    <string name="money_category_breakdown">श्रेणी विवरण</string>
+    <string name="money_recent_transactions">हाल के लेनदेन</string>
+    <string name="money_no_transactions">अभी कोई लेनदेन नहीं। आपके बैंक SMS अपने आप यहाँ दिखेंगे।</string>
+    <string name="money_safe_to_spend">प्रतिदिन खर्च सीमा</string>
+    <string name="vault_search_hint">अपनी यादों में खोजें…</string>
+    <string name="vault_capture_photo">फोटो</string>
+    <string name="vault_capture_voice">आवाज़</string>
+    <string name="vault_capture_text">नोट</string>
+    <string name="vault_empty">आपका वॉल्ट खाली है। अपनी पहली याद सहेजें!</string>
+    <string name="insights_personality">आपकी पैसा पर्सनालिटी</string>
+    <string name="insights_weekly_roast">हफ्ते की रोस्ट 🔥</string>
+    <string name="insights_ghost_subscriptions">भूले हुए सब्सक्रिप्शन 👻</string>
+    <string name="insights_daily_challenge">आज की चुनौती</string>
+    <string name="insights_daily_tip">आज की मनी टिप 💡</string>
+    <string name="settings_budget">मासिक बजट</string>
+    <string name="settings_language">भाषा</string>
+    <string name="settings_biometric">बायोमेट्रिक लॉक</string>
+    <string name="settings_privacy_badge">🔒 प्राइवेसी बैज</string>
+    <string name="settings_privacy_badge_desc">इस ऐप में इंटरनेट परमिशन नहीं है। आपका डेटा इस फोन से बाहर जा ही नहीं सकता।</string>
+    <string name="onboarding_title_1">सब याद रखता है।\nकिसी को नहीं बताता। 🧠🔒</string>
+    <string name="onboarding_desc_1">AI पैसा ट्रैकर + मेमोरी वॉल्ट। 100% आपके फोन पर। हम चाहें भी तो आपका डेटा नहीं देख सकते।</string>
+    <string name="currency_symbol">₹</string>
+    <string name="category_food">खाना-पीना</string>
+    <string name="category_transport">यातायात</string>
+    <string name="category_shopping">शॉपिंग</string>
+    <string name="category_bills">बिल</string>
+    <string name="category_entertainment">मनोरंजन</string>
+    <string name="category_health">स्वास्थ्य</string>
+    <string name="category_groceries">किराना</string>
+    <string name="category_salary">तनख्वाह</string>
+    <string name="category_others">अन्य</string>
+    <string name="share_personality">अपनी पर्सनालिटी शेयर करें</string>
+    <string name="permission_sms_rationale">हम बैंक SMS पढ़ते हैं खर्च ट्रैक करने के लिए। यह कभी फोन से बाहर नहीं जाता।</string>
+</resources>

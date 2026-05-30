@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Paisa Brain</string>
+    <string name="app_tagline">మీ డబ్బు, మీ బుర్ర, మీ భాష</string>
+    <string name="app_description">భారతదేశానికి స్మార్ట్ ఫైనాన్స్ అసిస్టెంట్</string>
+
+    <!-- Navigation -->
+    <string name="nav_money_brain">మనీ బ్రెయిన్</string>
+    <string name="nav_vault_brain">వాల్ట్ బ్రెయిన్</string>
+    <string name="nav_settings">సెట్టింగ్‌లు</string>
+    <string name="nav_profile">ప్రొఫైల్</string>
+
+    <!-- Money Brain Tab -->
+    <string name="money_title">మనీ బ్రెయిన్</string>
+    <string name="money_today_spend">ఈ రోజు ఖర్చు</string>
+    <string name="money_this_month">ఈ నెల</string>
+    <string name="money_monthly_budget">నెలవారీ బడ్జెట్</string>
+    <string name="money_remaining">మిగిలింది</string>
+    <string name="money_daily_average">రోజువారీ సగటు</string>
+    <string name="money_projected">నెల చివరి అంచనా</string>
+    <string name="money_transactions">లావాదేవీలు</string>
+    <string name="money_recent_transactions">ఇటీవల లావాదేవీలు</string>
+    <string name="money_all_transactions">అన్ని లావాదేవీలు</string>
+    <string name="money_add_transaction">లావాదేవీ జోడించు</string>
+    <string name="money_no_transactions">ఇంకా లావాదేవీలు లేవు. ఖర్చులను ట్రాక్ చేయడం ప్రారంభించండి!</string>
+    <string name="money_category_breakdown">కేటగిరీ విభజన</string>
+    <string name="money_spending_trend">ఖర్చు ట్రెండ్</string>
+    <string name="money_insights">ఇన్‌సైట్స్</string>
+    <string name="money_predictions">అంచనాలు</string>
+    <string name="money_prediction_message">ఈ వేగంతో, నెల చివరికి %1$s ఖర్చవుతుంది</string>
+    <string name="money_set_budget">బడ్జెట్ సెట్ చేయి</string>
+    <string name="money_budget_hint">నెలవారీ బడ్జెట్ ఎంటర్ చేయండి (₹)</string>
+
+    <!-- Transaction Entry -->
+    <string name="transaction_amount">మొత్తం (₹)</string>
+    <string name="transaction_category">కేటగిరీ</string>
+    <string name="transaction_merchant">దుకాణం / వ్యాపారి</string>
+    <string name="transaction_note">నోట్ (ఐచ్ఛికం)</string>
+    <string name="transaction_date">తేదీ</string>
+    <string name="transaction_save">సేవ్</string>
+    <string name="transaction_delete">డిలీట్</string>
+    <string name="transaction_edit">ఎడిట్</string>
+    <string name="transaction_source_manual">మాన్యువల్ ఎంట్రీ</string>
+    <string name="transaction_source_sms">SMS ఆటో-డిటెక్ట్</string>
+    <string name="transaction_source_notification">నోటిఫికేషన్ ఆటో-డిటెక్ట్</string>
+
+    <!-- Categories -->
+    <string name="category_food">ఆహారం</string>
+    <string name="category_groceries">కిరాణా</string>
+    <string name="category_transport">రవాణా</string>
+    <string name="category_fuel">ఇంధనం</string>
+    <string name="category_shopping">షాపింగ్</string>
+    <string name="category_entertainment">వినోదం</string>
+    <string name="category_health">ఆరోగ్యం</string>
+    <string name="category_education">విద్య</string>
+    <string name="category_rent">అద్దె</string>
+    <string name="category_utilities">బిల్లులు</string>
+    <string name="category_recharge">రీఛార్జ్</string>
+    <string name="category_insurance">బీమా</string>
+    <string name="category_investments">పెట్టుబడులు</string>
+    <string name="category_emi">EMI &amp; రుణాలు</string>
+    <string name="category_personal_care">వ్యక్తిగత సంరక్షణ</string>
+    <string name="category_clothing">దుస్తులు</string>
+    <string name="category_gifts">బహుమతులు</string>
+    <string name="category_travel">ప్రయాణం</string>
+    <string name="category_subscriptions">సబ్‌స్క్రిప్షన్లు</string>
+    <string name="category_household">ఇంటి ఖర్చులు</string>
+    <string name="category_kids">పిల్లలు</string>
+    <string name="category_pets">పెంపుడు జంతువులు</string>
+    <string name="category_other">ఇతరాలు</string>
+
+    <!-- Spending Personalities -->
+    <string name="personality_title">మీ ఖర్చు వ్యక్తిత్వం</string>
+    <string name="personality_saver">పొదుపరి</string>
+    <string name="personality_saver_desc">డ్రాగన్ బంగారాన్ని కాపాడినట్లు మీరు డబ్బును కాపాడుతారు. అద్భుతమైన క్రమశిక్షణ!</string>
+    <string name="personality_balanced">సమతుల్యం</string>
+    <string name="personality_balanced_desc">తెలివిగా ఖర్చు చేసి, స్థిరంగా సేవ్ చేస్తారు. ఫైనాన్స్ యూనికార్న్!</string>
+    <string name="personality_impulsive">ఇంపల్స్ కింగ్</string>
+    <string name="personality_impulsive_desc">చూస్తారు, నచ్చుతుంది, కొంటారు. మీ వాలెట్‌కు commitment issues!</string>
+    <string name="personality_foodie">ఫుడీ</string>
+    <string name="personality_foodie_desc">మీ కడుపే మీ ఫైనాన్షియల్ అడ్వైజర్. ఫుడ్ డెలివరీ యాప్‌లు మీకు థ్యాంక్ యూ కార్డ్‌లు పంపుతాయి.</string>
+    <string name="personality_shopper">షాపహాలిక్</string>
+    <string name="personality_shopper_desc">ఆన్‌లైన్ షాపింగ్ డెలివరీ వాడికి మీ పేరు తెలుసు. సేల్ సీజన్ మీ పండగ!</string>
+    <string name="personality_splurger">వీకెండ్ స్ప్లర్జర్</string>
+    <string name="personality_splurger_desc">వారం రోజులు: సన్యాసి. వీకెండ్: పార్టీ. మీ బ్యాలన్స్ రోలర్‌కోస్టర్ తిరుగుతుంది.</string>
+    <string name="personality_minimalist">మినిమలిస్ట్</string>
+    <string name="personality_minimalist_desc">మీరు చాలా తక్కువగా ఖర్చు చేస్తారు, మీ వాలెట్ తన పని మర్చిపోయింది.</string>
+    <string name="personality_investor">ఇన్వెస్టర్</string>
+    <string name="personality_investor_desc">Mutual funds sahi hai — మీరు నిజంగా నమ్ముతారు. భవిష్యత్ మీరు థ్యాంక్స్ చెబుతారు!</string>
+
+    <!-- Roasts -->
+    <string name="roast_title">వారపు రోస్ట్ 🔥</string>
+    <string name="roast_new_roast">కొత్త రోస్ట్</string>
+    <string name="roast_share">షేర్</string>
+    <string name="roast_notification_title">మీ సోమవారం రోస్ట్ రెడీ 🔥</string>
+
+    <!-- Vault Brain Tab -->
+    <string name="vault_title">వాల్ట్ బ్రెయిన్</string>
+    <string name="vault_subtitle">మీ ప్రైవేట్ డిజిటల్ లాకర్</string>
+    <string name="vault_search_hint">వాల్ట్‌లో వెతుకు...</string>
+    <string name="vault_empty">వాల్ట్ ఖాళీగా ఉంది. ఫోటోలు, వాయిస్ నోట్స్ లేదా టెక్స్ట్ సేవ్ చేయండి!</string>
+    <string name="vault_entry_count">వాల్ట్‌లో %1$d ఐటమ్‌లు</string>
+    <string name="vault_add_photo">డాక్యుమెంట్ స్కాన్</string>
+    <string name="vault_add_voice">వాయిస్ నోట్</string>
+    <string name="vault_add_text">టెక్స్ట్ నోట్</string>
+    <string name="vault_capture_photo">ఫోటో తీయి</string>
+    <string name="vault_pick_gallery">గ్యాలరీ నుండి ఎంచుకో</string>
+    <string name="vault_processing_ocr">చిత్రం నుండి టెక్స్ట్ తీస్తోంది...</string>
+    <string name="vault_processing_voice">వాయిస్‌ను టెక్స్ట్‌గా మారుస్తోంది...</string>
+    <string name="vault_processing_tags">ఆటో-ట్యాగింగ్...</string>
+    <string name="vault_saved">వాల్ట్‌లో సేవ్ అయింది!</string>
+    <string name="vault_note_title_hint">టైటిల్ (ఖాళీగా వదిలితే ఆటో)</string>
+    <string name="vault_note_content_hint">ఇక్కడ నోట్ రాయండి...</string>
+    <string name="vault_tags">ట్యాగ్‌లు</string>
+    <string name="vault_add_tag">ట్యాగ్ జోడించు</string>
+    <string name="vault_favorite">ఫేవరిట్</string>
+    <string name="vault_archive">ఆర్కైవ్</string>
+    <string name="vault_delete_confirm">ఈ ఎంట్రీని డిలీట్ చేయాలా? దీన్ని అన్‌డూ చేయలేరు.</string>
+    <string name="vault_voice_listening">వింటోంది...</string>
+    <string name="vault_voice_tap_to_stop">ఆపడానికి ట్యాప్ చేయండి</string>
+
+    <!-- Settings -->
+    <string name="settings_title">సెట్టింగ్‌లు</string>
+    <string name="settings_general">సాధారణం</string>
+    <string name="settings_language">భాష</string>
+    <string name="settings_language_desc">మీకు ఇష్టమైన భాషను ఎంచుకోండి</string>
+    <string name="settings_currency">కరెన్సీ</string>
+    <string name="settings_theme">థీమ్</string>
+    <string name="settings_theme_light">లైట్</string>
+    <string name="settings_theme_dark">డార్క్</string>
+    <string name="settings_theme_system">సిస్టమ్ డిఫాల్ట్</string>
+    <string name="settings_notifications">నోటిఫికేషన్లు</string>
+    <string name="settings_weekly_roast">వారపు రోస్ట్</string>
+    <string name="settings_weekly_roast_desc">ప్రతి సోమవారం ఖర్చు రోస్ట్ పొందండి</string>
+    <string name="settings_budget_alerts">బడ్జెట్ అలర్ట్‌లు</string>
+    <string name="settings_budget_alerts_desc">ఖర్చు వేగం పెరిగినప్పుడు అలర్ట్</string>
+    <string name="settings_privacy">ప్రైవసీ &amp; సెక్యూరిటీ</string>
+    <string name="settings_biometric">బయోమెట్రిక్ లాక్</string>
+    <string name="settings_biometric_desc">యాప్ తెరవడానికి ఫింగర్‌ప్రింట్ లేదా ఫేస్ అవసరం</string>
+    <string name="settings_data_export">డేటా ఎక్స్‌పోర్ట్</string>
+    <string name="settings_data_export_desc">మొత్తం డేటాను CSV గా ఎక్స్‌పోర్ట్ చేయండి</string>
+    <string name="settings_data_delete">మొత్తం డేటా తొలగించు</string>
+    <string name="settings_data_delete_desc">నిల్వ చేసిన మొత్తం డేటాను శాశ్వతంగా తొలగించు</string>
+    <string name="settings_data_delete_confirm">ఖచ్చితంగా? ఇది అన్ని లావాదేవీలు, వాల్ట్ ఎంట్రీలు మరియు సెట్టింగ్‌లను తొలగిస్తుంది. రికవర్ చేయలేరు.</string>
+    <string name="settings_about">గురించి</string>
+    <string name="settings_version">వెర్షన్</string>
+    <string name="settings_privacy_policy">ప్రైవసీ పాలసీ</string>
+    <string name="settings_rate_app">Paisa Brain కి రేటింగ్ ఇవ్వండి</string>
+    <string name="settings_share_app">ఫ్రెండ్స్‌తో షేర్ చేయండి</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_roast">వారపు రోస్ట్</string>
+    <string name="notification_channel_roast_desc">ప్రతి సోమవారం ఫన్ ఖర్చు రోస్ట్</string>
+    <string name="notification_channel_budget">బడ్జెట్ అలర్ట్‌లు</string>
+    <string name="notification_channel_budget_desc">ఖర్చు బడ్జెట్ మించినప్పుడు ముందస్తు అలర్ట్</string>
+
+    <!-- Budget Alerts -->
+    <string name="budget_alert_urgent_title">⚠️ బడ్జెట్ దాటింది!</string>
+    <string name="budget_alert_urgent_message">%2$s బడ్జెట్‌కు %1$s ఖర్చు చేశారు — %3$s ఎక్కువ! ఇంకా %4$d రోజులు మిగిలాయి. ఆపి ప్లాన్ చేయండి.</string>
+    <string name="budget_alert_warning_title">📊 బడ్జెట్ వార్నింగ్</string>
+    <string name="budget_alert_warning_message">%2$s బడ్జెట్‌లో %1$s ఖర్చు. ఈ వేగంతో నెల చివరికి %3$s — బడ్జెట్ కంటే %4$s ఎక్కువ. ప్రధాన కారణం: %5$s</string>
+    <string name="budget_alert_nudge_title">💡 బడ్జెట్ చెక్-ఇన్</string>
+    <string name="budget_alert_nudge_message">బడ్జెట్‌లో %1$s%% వాడారు. రోజువారీ సగటు %2$s, %3$d రోజులు మిగిలాయి. స్థిరంగా ఉంటే మంచిదే!</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Paisa Brain కి స్వాగతం! 🧠</string>
+    <string name="onboarding_welcome_desc">మీ భాషలో మాట్లాడే, మీ ఖర్చులను రోస్ట్ చేసే ఫైనాన్స్ అసిస్టెంట్.</string>
+    <string name="onboarding_money_title">ప్రతి పైసా ట్రాక్ చేయి 💰</string>
+    <string name="onboarding_money_desc">SMS &amp; నోటిఫికేషన్ల నుండి ఆటో-డిటెక్ట్. ఇన్‌సైట్స్, అంచనాలు, వ్యక్తిత్వ విశ్లేషణ.</string>
+    <string name="onboarding_vault_title">మీ డిజిటల్ వాల్ట్ 🔐</string>
+    <string name="onboarding_vault_desc">డాక్యుమెంట్లు స్కాన్, వాయిస్ నోట్స్, ముఖ్యమైన సమాచారం సేవ్. అంతా మీ ఫోన్‌లో, ఎన్‌క్రిప్ట్ చేసి.</string>
+    <string name="onboarding_roast_title">వారపు రోస్ట్ 🔥</string>
+    <string name="onboarding_roast_desc">ప్రతి సోమవారం మీ ఖర్చు అలవాట్ల ఫన్ రోస్ట్. సరదాగా, న్యాయంగా, ఖచ్చితంగా.</string>
+    <string name="onboarding_privacy_title">ప్రైవసీ ముందుగా 🛡️</string>
+    <string name="onboarding_privacy_desc">మొత్తం డేటా మీ డివైస్‌లోనే. క్లౌడ్ సింక్ లేదు. యాడ్స్ లేవు. డేటా అమ్మకం లేదు.</string>
+    <string name="onboarding_get_started">ప్రారంభించండి</string>
+    <string name="onboarding_next">తదుపరి</string>
+    <string name="onboarding_skip">స్కిప్</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">సేవ్</string>
+    <string name="action_cancel">రద్దు</string>
+    <string name="action_delete">తొలగించు</string>
+    <string name="action_edit">ఎడిట్</string>
+    <string name="action_share">షేర్</string>
+    <string name="action_search">వెతుకు</string>
+    <string name="action_filter">ఫిల్టర్</string>
+    <string name="action_sort">సార్ట్</string>
+    <string name="action_retry">మళ్ళీ ప్రయత్నించు</string>
+    <string name="action_ok">సరే</string>
+    <string name="action_yes">అవును</string>
+    <string name="action_no">కాదు</string>
+    <string name="action_done">పూర్తి</string>
+    <string name="action_close">మూసివేయి</string>
+    <string name="action_back">వెనుకకు</string>
+
+    <!-- Errors -->
+    <string name="error_generic">ఏదో తప్పు జరిగింది. మళ్ళీ ప్రయత్నించండి.</string>
+    <string name="error_no_camera">కెమెరా అందుబాటులో లేదు</string>
+    <string name="error_no_microphone">మైక్రోఫోన్ అందుబాటులో లేదు</string>
+    <string name="error_permission_camera">డాక్యుమెంట్లు స్కాన్ చేయడానికి కెమెరా అనుమతి అవసరం</string>
+    <string name="error_permission_microphone">వాయిస్ నోట్స్ కోసం మైక్రోఫోన్ అనుమతి అవసరం</string>
+    <string name="error_ocr_failed">చిత్రం నుండి టెక్స్ట్ తీయడం విఫలమైంది</string>
+    <string name="error_transcription_failed">వాయిస్‌ను టెక్స్ట్‌గా మార్చడం విఫలమైంది</string>
+    <string name="error_no_speech">మాట గుర్తించబడలేదు. మళ్ళీ ప్రయత్నించండి.</string>
+</resources>

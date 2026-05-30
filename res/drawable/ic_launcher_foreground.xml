@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer circle: Teal ring -->
+    <path
+        android:fillColor="#0D7377"
+        android:pathData="M54,22 A32,32 0 1,1 53.99,22 Z" />
+
+    <!-- Inner circle: Navy fill -->
+    <path
+        android:fillColor="#0A1628"
+        android:pathData="M54,26 A28,28 0 1,1 53.99,26 Z" />
+
+    <!-- Rupee symbol ₹ in Gold -->
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M42,40 L66,40 M42,48 L66,48 M48,40 C48,40 60,40 60,48 C60,56 48,56 48,56 L60,72"
+        android:strokeWidth="3"
+        android:strokeColor="#F5A623"
+        android:fillColor="#00000000" />
+
+    <!-- Small sparkle (top-right) in gold -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M70,30 L72,26 L74,30 L78,32 L74,34 L72,38 L70,34 L66,32 Z" />
+
+    <!-- Small sparkle (bottom-left) in teal -->
+    <path
+        android:fillColor="#14A3A8"
+        android:pathData="M32,68 L33.5,65 L35,68 L38,69.5 L35,71 L33.5,74 L32,71 L29,69.5 Z" />
+</vector>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ==========================================
+         PAISA BRAIN — COLOR SYSTEM
+         Psychology-optimized for Indian finance app
+         Deep Teal = trust | Gold = prosperity | Green = growth
+         ========================================== -->
+
+    <!-- Primary: Deep Teal (Trust, Safety, Credibility) -->
+    <color name="primary_teal">#FF0D7377</color>
+    <color name="primary_teal_light">#FF14A3A8</color>
+    <color name="primary_teal_dark">#FF095456</color>
+    <color name="primary_teal_container">#FF0A3D40</color>
+    <color name="on_primary_teal">#FFFFFFFF</color>
+
+    <!-- Secondary: Warm Gold (Prosperity, Wealth, Auspiciousness) -->
+    <color name="secondary_gold">#FFF5A623</color>
+    <color name="secondary_gold_light">#FFFFD166</color>
+    <color name="secondary_gold_dark">#FFC17F1A</color>
+    <color name="secondary_gold_container">#FF3D2A08</color>
+    <color name="on_secondary_gold">#FF1A1200</color>
+
+    <!-- Accent: Emerald Green (Money Growth, Progress) -->
+    <color name="accent_green">#FF2ECC71</color>
+    <color name="accent_green_light">#FF6FE8A0</color>
+    <color name="accent_green_dark">#FF1E8C4E</color>
+
+    <!-- Semantic: Income / Expense -->
+    <color name="income_green">#FF4CAF50</color>
+    <color name="expense_red">#FFFF5252</color>
+
+    <!-- Error / Warning -->
+    <color name="error_coral">#FFE74C3C</color>
+    <color name="error_coral_light">#FFFF6B6B</color>
+    <color name="warning_amber">#FFFFB74D</color>
+    <color name="warning_amber_dark">#FFFF8F00</color>
+
+    <!-- Dark Mode Surfaces -->
+    <color name="surface_dark">#FF0A1628</color>
+    <color name="surface_dark_variant">#FF132238</color>
+    <color name="surface_dark_elevated">#FF1A2D4A</color>
+    <color name="on_surface_dark">#FFE8E8E8</color>
+    <color name="on_surface_dark_variant">#FF9EAAB8</color>
+
+    <!-- Light Mode Surfaces -->
+    <color name="surface_light">#FFFAFAF8</color>
+    <color name="surface_light_variant">#FFF0F0ED</color>
+    <color name="surface_light_elevated">#FFFFFFFF</color>
+    <color name="on_surface_light">#FF2D3436</color>
+    <color name="on_surface_light_variant">#FF636E72</color>
+
+    <!-- Special Purpose -->
+    <color name="streak_fire">#FFFF6B35</color>
+    <color name="achievement_gold">#FFFFD700</color>
+    <color name="privacy_purple">#FF7C4DFF</color>
+    <color name="emergency_red">#FFD32F2F</color>
+    <color name="survival_blue">#FF1565C0</color>
+    <color name="elderly_warm">#FFFFF3E0</color>
+
+    <!-- Gradients (start/end pairs) -->
+    <color name="gradient_navy_start">#FF0A1628</color>
+    <color name="gradient_navy_end">#FF132238</color>
+    <color name="gradient_teal_start">#FF0D7377</color>
+    <color name="gradient_teal_end">#FF14A3A8</color>
+
+    <!-- Widget -->
+    <color name="widget_background">#E60A1628</color>
+    <color name="widget_text">#FFFFFFFF</color>
+    <color name="widget_accent">#FFF5A623</color>
+
+    <!-- Basics -->
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Launcher Icon -->
+    <color name="ic_launcher_background">#FF0A1628</color>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Theme: Paisa Brain (DayNight — auto dark/light) -->
+    <style name="Theme.PaisaBrain" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary -->
+        <item name="colorPrimary">@color/primary_teal</item>
+        <item name="colorPrimaryContainer">@color/primary_teal_container</item>
+        <item name="colorOnPrimary">@color/on_primary_teal</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/secondary_gold</item>
+        <item name="colorSecondaryContainer">@color/secondary_gold_container</item>
+        <item name="colorOnSecondary">@color/on_secondary_gold</item>
+
+        <!-- Tertiary -->
+        <item name="colorTertiary">@color/accent_green</item>
+        <item name="colorTertiaryContainer">@color/accent_green_dark</item>
+
+        <!-- Error -->
+        <item name="colorError">@color/error_coral</item>
+        <item name="colorOnError">@color/white</item>
+
+        <!-- Background & Surface -->
+        <item name="android:colorBackground">@color/surface_light</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorSurfaceVariant">@color/surface_light_variant</item>
+        <item name="colorOnSurface">@color/on_surface_light</item>
+        <item name="colorOnSurfaceVariant">@color/on_surface_light_variant</item>
+
+        <!-- System bars -->
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:navigationBarColor">@color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Splash screen (Android 12+) -->
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">@color/surface_dark</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@drawable/ic_launcher_foreground</item>
+    </style>
+
+    <!-- Splash Screen Theme (Android 6-11) -->
+    <style name="Theme.PaisaBrain.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/surface_dark</item>
+        <item name="android:statusBarColor">@color/surface_dark</item>
+        <item name="android:navigationBarColor">@color/surface_dark</item>
+    </style>
+
+    <!-- Widget Theme -->
+    <style name="Theme.PaisaBrain.Widget" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+</resources>

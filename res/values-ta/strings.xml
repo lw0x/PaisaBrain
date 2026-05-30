@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Paisa Brain</string>
+    <string name="app_tagline">உங்கள் பணம், உங்கள் மூளை, உங்கள் மொழி</string>
+    <string name="app_description">இந்தியாவுக்கான ஸ்மார்ட் நிதி உதவியாளர்</string>
+
+    <!-- Navigation -->
+    <string name="nav_money_brain">பணம் பிரெயின்</string>
+    <string name="nav_vault_brain">வால்ட் பிரெயின்</string>
+    <string name="nav_settings">அமைப்புகள்</string>
+    <string name="nav_profile">சுயவிவரம்</string>
+
+    <!-- Money Brain Tab -->
+    <string name="money_title">பணம் பிரெயின்</string>
+    <string name="money_today_spend">இன்றைய செலவு</string>
+    <string name="money_this_month">இந்த மாதம்</string>
+    <string name="money_monthly_budget">மாதாந்திர பட்ஜெட்</string>
+    <string name="money_remaining">மீதம்</string>
+    <string name="money_daily_average">தினசரி சராசரி</string>
+    <string name="money_projected">மாத இறுதி கணிப்பு</string>
+    <string name="money_transactions">பரிவர்த்தனைகள்</string>
+    <string name="money_recent_transactions">சமீபத்திய பரிவர்த்தனைகள்</string>
+    <string name="money_all_transactions">அனைத்து பரிவர்த்தனைகள்</string>
+    <string name="money_add_transaction">பரிவர்த்தனை சேர்</string>
+    <string name="money_no_transactions">இன்னும் பரிவர்த்தனைகள் இல்லை. செலவுகளை கண்காணிக்கத் தொடங்குங்கள்!</string>
+    <string name="money_category_breakdown">வகை வாரியான பிரிப்பு</string>
+    <string name="money_spending_trend">செலவு போக்கு</string>
+    <string name="money_insights">நுண்ணறிவுகள்</string>
+    <string name="money_predictions">கணிப்புகள்</string>
+    <string name="money_prediction_message">இந்த வேகத்தில், மாத இறுதியில் %1$s செலவாகும்</string>
+    <string name="money_set_budget">பட்ஜெட் அமை</string>
+    <string name="money_budget_hint">மாதாந்திர பட்ஜெட் உள்ளிடவும் (₹)</string>
+
+    <!-- Transaction Entry -->
+    <string name="transaction_amount">தொகை (₹)</string>
+    <string name="transaction_category">வகை</string>
+    <string name="transaction_merchant">கடை / வணிகர்</string>
+    <string name="transaction_note">குறிப்பு (விருப்பம்)</string>
+    <string name="transaction_date">தேதி</string>
+    <string name="transaction_save">சேமி</string>
+    <string name="transaction_delete">நீக்கு</string>
+    <string name="transaction_edit">திருத்து</string>
+    <string name="transaction_source_manual">கைமுறை பதிவு</string>
+    <string name="transaction_source_sms">SMS தானியங்கி</string>
+    <string name="transaction_source_notification">அறிவிப்பு தானியங்கி</string>
+
+    <!-- Categories -->
+    <string name="category_food">உணவு</string>
+    <string name="category_groceries">மளிகை</string>
+    <string name="category_transport">போக்குவரத்து</string>
+    <string name="category_fuel">எரிபொருள்</string>
+    <string name="category_shopping">ஷாப்பிங்</string>
+    <string name="category_entertainment">பொழுதுபோக்கு</string>
+    <string name="category_health">உடல்நலம்</string>
+    <string name="category_education">கல்வி</string>
+    <string name="category_rent">வாடகை</string>
+    <string name="category_utilities">பில்கள்</string>
+    <string name="category_recharge">ரீசார்ஜ்</string>
+    <string name="category_insurance">காப்பீடு</string>
+    <string name="category_investments">முதலீடுகள்</string>
+    <string name="category_emi">EMI &amp; கடன்</string>
+    <string name="category_personal_care">சுய பராமரிப்பு</string>
+    <string name="category_clothing">ஆடை</string>
+    <string name="category_gifts">பரிசுகள்</string>
+    <string name="category_travel">பயணம்</string>
+    <string name="category_subscriptions">சந்தா</string>
+    <string name="category_household">வீட்டுச்செலவு</string>
+    <string name="category_kids">குழந்தைகள்</string>
+    <string name="category_pets">செல்லப்பிராணிகள்</string>
+    <string name="category_other">மற்றவை</string>
+
+    <!-- Spending Personalities -->
+    <string name="personality_title">உங்கள் செலவு ஆளுமை</string>
+    <string name="personality_saver">சேமிப்பாளர்</string>
+    <string name="personality_saver_desc">நாகம் தங்கத்தைக் காப்பது போல் பணத்தைக் காக்கிறீர்கள். அருமையான ஒழுக்கம்!</string>
+    <string name="personality_balanced">சமநிலையாளர்</string>
+    <string name="personality_balanced_desc">புத்திசாலித்தனமாக செலவழித்து, தொடர்ந்து சேமிக்கிறீர்கள். நிதி யூனிகார்ன்!</string>
+    <string name="personality_impulsive">உணர்ச்சி ராஜா</string>
+    <string name="personality_impulsive_desc">பார்க்கிறீர்கள், பிடிக்கிறது, வாங்குகிறீர்கள். உங்கள் பர்சுக்கு commitment issues!</string>
+    <string name="personality_foodie">ஃபுட்டி</string>
+    <string name="personality_foodie_desc">உங்கள் வயிறுதான் உங்கள் நிதி ஆலோசகர். உணவு டெலிவரி செயலிகள் உங்களுக்கு நன்றி அட்டை அனுப்புகின்றன.</string>
+    <string name="personality_shopper">ஷாப்பிங் மன்னர்</string>
+    <string name="personality_shopper_desc">ஆன்லைன் ஷாப்பிங் டெலிவரி பையன் உங்கள் பெயரை அறிவார். Sale சீசன் உங்கள் திருவிழா!</string>
+    <string name="personality_splurger">வீக்எண்ட் ஸ்ப்ளர்ஜர்</string>
+    <string name="personality_splurger_desc">வாரநாட்கள்: துறவி. வாரயிறுதி: பார்ட்டி. உங்கள் பாலன்ஸ் ரோலர்கோஸ்டர் ஓட்டுகிறது.</string>
+    <string name="personality_minimalist">மினிமலிஸ்ட்</string>
+    <string name="personality_minimalist_desc">நீங்கள் மிகக் குறைவாக செலவழிக்கிறீர்கள், உங்கள் பர்ஸ் தன் வேலையை மறந்துவிட்டது.</string>
+    <string name="personality_investor">முதலீட்டாளர்</string>
+    <string name="personality_investor_desc">Mutual funds sahi hai — நீங்கள் உண்மையிலேயே நம்புகிறீர்கள். எதிர்கால நீங்கள் நன்றி சொல்கிறார்!</string>
+
+    <!-- Roasts -->
+    <string name="roast_title">வாராந்திர ரோஸ்ட் 🔥</string>
+    <string name="roast_new_roast">புதிய ரோஸ்ட்</string>
+    <string name="roast_share">பகிர்</string>
+    <string name="roast_notification_title">உங்கள் திங்கள் ரோஸ்ட் தயார் 🔥</string>
+
+    <!-- Vault Brain Tab -->
+    <string name="vault_title">வால்ட் பிரெயின்</string>
+    <string name="vault_subtitle">உங்கள் தனிப்பட்ட டிஜிட்டல் லாக்கர்</string>
+    <string name="vault_search_hint">வால்ட்டில் தேடு...</string>
+    <string name="vault_empty">வால்ட் காலியாக உள்ளது. புகைப்படங்கள், குரல் குறிப்புகள் அல்லது உரையைச் சேமியுங்கள்!</string>
+    <string name="vault_entry_count">வால்ட்டில் %1$d உருப்படிகள்</string>
+    <string name="vault_add_photo">ஆவணம் ஸ்கேன்</string>
+    <string name="vault_add_voice">குரல் குறிப்பு</string>
+    <string name="vault_add_text">உரை குறிப்பு</string>
+    <string name="vault_capture_photo">புகைப்படம் எடு</string>
+    <string name="vault_pick_gallery">கேலரியிலிருந்து தேர்வு</string>
+    <string name="vault_processing_ocr">படத்திலிருந்து உரை பிரித்தெடுக்கிறது...</string>
+    <string name="vault_processing_voice">குரலை உரையாக்குகிறது...</string>
+    <string name="vault_processing_tags">தானியங்கி டேக்கிங்...</string>
+    <string name="vault_saved">வால்ட்டில் சேமிக்கப்பட்டது!</string>
+    <string name="vault_note_title_hint">தலைப்பு (காலியாக விட்டால் தானியங்கி)</string>
+    <string name="vault_note_content_hint">இங்கே குறிப்பு எழுதுங்கள்...</string>
+    <string name="vault_tags">டேக்கள்</string>
+    <string name="vault_add_tag">டேக் சேர்</string>
+    <string name="vault_favorite">பிடித்தவை</string>
+    <string name="vault_archive">காப்பகம்</string>
+    <string name="vault_delete_confirm">இந்த உள்ளீட்டை நீக்கவா? இதை மீட்க முடியாது.</string>
+    <string name="vault_voice_listening">கேட்கிறது...</string>
+    <string name="vault_voice_tap_to_stop">நிறுத்த தட்டவும்</string>
+
+    <!-- Settings -->
+    <string name="settings_title">அமைப்புகள்</string>
+    <string name="settings_general">பொது</string>
+    <string name="settings_language">மொழி</string>
+    <string name="settings_language_desc">விரும்பும் மொழியைத் தேர்வுசெய்யவும்</string>
+    <string name="settings_currency">நாணயம்</string>
+    <string name="settings_theme">தீம்</string>
+    <string name="settings_theme_light">வெளிச்சம்</string>
+    <string name="settings_theme_dark">இருள்</string>
+    <string name="settings_theme_system">சிஸ்டம் இயல்பு</string>
+    <string name="settings_notifications">அறிவிப்புகள்</string>
+    <string name="settings_weekly_roast">வாராந்திர ரோஸ்ட்</string>
+    <string name="settings_weekly_roast_desc">ஒவ்வொரு திங்களும் செலவு ரோஸ்ட் பெறுங்கள்</string>
+    <string name="settings_budget_alerts">பட்ஜெட் எச்சரிக்கைகள்</string>
+    <string name="settings_budget_alerts_desc">செலவு வேகம் அதிகரிக்கும்போது எச்சரிக்கை</string>
+    <string name="settings_privacy">தனியுரிமை &amp; பாதுகாப்பு</string>
+    <string name="settings_biometric">பயோமெட்ரிக் பூட்டு</string>
+    <string name="settings_biometric_desc">ஆப்பைத் திறக்க கைரேகை அல்லது முகம் தேவை</string>
+    <string name="settings_data_export">தரவு ஏற்றுமதி</string>
+    <string name="settings_data_export_desc">அனைத்து தரவையும் CSV ஆக ஏற்றுமதி செய்யுங்கள்</string>
+    <string name="settings_data_delete">அனைத்து தரவையும் நீக்கு</string>
+    <string name="settings_data_delete_desc">சேமிக்கப்பட்ட அனைத்து தரவையும் நிரந்தரமாக நீக்கு</string>
+    <string name="settings_data_delete_confirm">உறுதியா? இது அனைத்து பரிவர்த்தனைகள், வால்ட் உள்ளீடுகள் மற்றும் அமைப்புகளை நீக்கும். மீட்க இயலாது.</string>
+    <string name="settings_about">பற்றி</string>
+    <string name="settings_version">பதிப்பு</string>
+    <string name="settings_privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="settings_rate_app">Paisa Brain-ஐ மதிப்பிடுங்கள்</string>
+    <string name="settings_share_app">நண்பர்களுடன் பகிருங்கள்</string>
+    <string name="settings_income_bracket">வருமான வரம்பு</string>
+    <string name="settings_income_bracket_desc">செலவு ஒப்பீடுகளுக்கு பயன்படுத்தப்படும்</string>
+    <string name="settings_sms_tracking">SMS கண்காணிப்பு</string>
+    <string name="settings_sms_tracking_desc">வங்கி SMS-லிருந்து பரிவர்த்தனைகளைத் தானியங்கியாகக் கண்டறியும்</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_roast">வாராந்திர ரோஸ்ட்</string>
+    <string name="notification_channel_roast_desc">ஒவ்வொரு திங்களும் வேடிக்கையான செலவு ரோஸ்ட்</string>
+    <string name="notification_channel_budget">பட்ஜெட் எச்சரிக்கைகள்</string>
+    <string name="notification_channel_budget_desc">செலவு பட்ஜெட்டை மீறும்போது முன்னெச்சரிக்கை</string>
+
+    <!-- Budget Alerts -->
+    <string name="budget_alert_urgent_title">⚠️ பட்ஜெட் மீறியது!</string>
+    <string name="budget_alert_urgent_message">%2$s பட்ஜெட்டுக்கு எதிராக %1$s செலவழித்துள்ளீர்கள் — %3$s அதிகம்! இன்னும் %4$d நாட்கள் உள்ளன. நிறுத்தி திட்டமிடுங்கள்.</string>
+    <string name="budget_alert_warning_title">📊 பட்ஜெட் எச்சரிக்கை</string>
+    <string name="budget_alert_warning_message">%2$s பட்ஜெட்டில் %1$s செலவழித்துள்ளீர்கள். இந்த வேகத்தில் மாத இறுதியில் %3$s ஆகும் — பட்ஜெட்டை விட %4$s அதிகம். முக்கிய காரணம்: %5$s</string>
+    <string name="budget_alert_nudge_title">💡 பட்ஜெட் நிலை</string>
+    <string name="budget_alert_nudge_message">பட்ஜெட்டின் %1$s%% பயன்படுத்தியுள்ளீர்கள். தினசரி சராசரி %2$s, %3$d நாட்கள் மீதம். சீராக இருந்தால் சரியாகும்!</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Paisa Brain-க்கு வரவேற்பு! 🧠</string>
+    <string name="onboarding_welcome_desc">உங்கள் மொழியில் பேசும், உங்கள் செலவை ரோஸ்ட் செய்யும் நிதி உதவியாளர்.</string>
+    <string name="onboarding_money_title">ஒவ்வொரு பைசாவையும் கண்காணி 💰</string>
+    <string name="onboarding_money_desc">SMS &amp; அறிவிப்புகளிலிருந்து தானியங்கி கண்டறிதல். நுண்ணறிவுகள், கணிப்புகள், ஆளுமை பகுப்பாய்வு.</string>
+    <string name="onboarding_vault_title">உங்கள் டிஜிட்டல் வால்ட் 🔐</string>
+    <string name="onboarding_vault_desc">ஆவணங்கள் ஸ்கேன், குரல் குறிப்புகள், முக்கிய தகவல்கள் சேமிப்பு. எல்லாம் உங்கள் போனில், என்கிரிப்ட் செய்யப்பட்டு.</string>
+    <string name="onboarding_roast_title">வாராந்திர ரோஸ்ட் 🔥</string>
+    <string name="onboarding_roast_desc">ஒவ்வொரு திங்களும் உங்கள் செலவு பழக்கத்தின் வேடிக்கையான ரோஸ்ட். வேடிக்கையான, நியாயமான, துல்லியமான.</string>
+    <string name="onboarding_privacy_title">தனியுரிமை முதலில் 🛡️</string>
+    <string name="onboarding_privacy_desc">அனைத்து தரவும் உங்கள் சாதனத்தில். கிளவுட் சிங்க் இல்லை. விளம்பரம் இல்லை. தரவு விற்பனை இல்லை.</string>
+    <string name="onboarding_get_started">தொடங்குங்கள்</string>
+    <string name="onboarding_next">அடுத்து</string>
+    <string name="onboarding_skip">தவிர்</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">சேமி</string>
+    <string name="action_cancel">ரத்து</string>
+    <string name="action_delete">நீக்கு</string>
+    <string name="action_edit">திருத்து</string>
+    <string name="action_share">பகிர்</string>
+    <string name="action_search">தேடு</string>
+    <string name="action_filter">வடிகட்டு</string>
+    <string name="action_sort">வரிசைப்படுத்து</string>
+    <string name="action_retry">மீண்டும் முயற்சி</string>
+    <string name="action_ok">சரி</string>
+    <string name="action_yes">ஆம்</string>
+    <string name="action_no">இல்லை</string>
+    <string name="action_done">முடிந்தது</string>
+    <string name="action_close">மூடு</string>
+    <string name="action_back">பின்</string>
+
+    <!-- Errors -->
+    <string name="error_generic">ஏதோ தவறு. மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="error_no_camera">கேமரா கிடைக்கவில்லை</string>
+    <string name="error_no_microphone">மைக்ரோஃபோன் கிடைக்கவில்லை</string>
+    <string name="error_permission_camera">ஆவணங்களை ஸ்கேன் செய்ய கேமரா அனுமதி தேவை</string>
+    <string name="error_permission_microphone">குரல் குறிப்புகளுக்கு மைக்ரோஃபோன் அனுமதி தேவை</string>
+    <string name="error_ocr_failed">படத்திலிருந்து உரை பிரித்தெடுக்க இயலவில்லை</string>
+    <string name="error_transcription_failed">குரலை உரையாக்க இயலவில்லை</string>
+    <string name="error_no_speech">பேச்சு கண்டறியப்படவில்லை. மீண்டும் முயற்சிக்கவும்.</string>
+</resources>

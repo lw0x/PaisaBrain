@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Paisa Brain</string>
+    <string name="app_tagline">তোমার টাকা, তোমার মস্তিষ্ক, তোমার ভাষা</string>
+    <string name="app_description">ভারতের জন্য স্মার্ট অর্থ সহায়ক</string>
+
+    <!-- Navigation -->
+    <string name="nav_money_brain">মানি ব্রেইন</string>
+    <string name="nav_vault_brain">ভল্ট ব্রেইন</string>
+    <string name="nav_settings">সেটিংস</string>
+    <string name="nav_profile">প্রোফাইল</string>
+
+    <!-- Money Brain Tab -->
+    <string name="money_title">মানি ব্রেইন</string>
+    <string name="money_today_spend">আজকের খরচ</string>
+    <string name="money_this_month">এই মাস</string>
+    <string name="money_monthly_budget">মাসিক বাজেট</string>
+    <string name="money_remaining">বাকি আছে</string>
+    <string name="money_daily_average">দৈনিক গড়</string>
+    <string name="money_projected">মাসের শেষে আনুমানিক</string>
+    <string name="money_transactions">লেনদেন</string>
+    <string name="money_recent_transactions">সাম্প্রতিক লেনদেন</string>
+    <string name="money_all_transactions">সব লেনদেন</string>
+    <string name="money_add_transaction">লেনদেন যোগ করুন</string>
+    <string name="money_no_transactions">এখনো কোনো লেনদেন নেই। খরচ ট্র্যাক করা শুরু করুন!</string>
+    <string name="money_category_breakdown">ক্যাটেগরি ভাগ</string>
+    <string name="money_spending_trend">খরচের ট্রেন্ড</string>
+    <string name="money_insights">অন্তর্দৃষ্টি</string>
+    <string name="money_predictions">পূর্বাভাস</string>
+    <string name="money_prediction_message">এই গতিতে, মাসের শেষে %1$s খরচ হবে</string>
+    <string name="money_set_budget">বাজেট সেট করুন</string>
+    <string name="money_budget_hint">মাসিক বাজেট লিখুন (₹)</string>
+
+    <!-- Transaction Entry -->
+    <string name="transaction_amount">পরিমাণ (₹)</string>
+    <string name="transaction_category">ক্যাটেগরি</string>
+    <string name="transaction_merchant">দোকান / ব্যবসায়ী</string>
+    <string name="transaction_note">নোট (ঐচ্ছিক)</string>
+    <string name="transaction_date">তারিখ</string>
+    <string name="transaction_save">সেভ</string>
+    <string name="transaction_delete">মুছুন</string>
+    <string name="transaction_edit">সম্পাদনা</string>
+    <string name="transaction_source_manual">ম্যানুয়াল এন্ট্রি</string>
+    <string name="transaction_source_sms">SMS অটো-ডিটেক্ট</string>
+    <string name="transaction_source_notification">নোটিফিকেশন অটো-ডিটেক্ট</string>
+
+    <!-- Categories -->
+    <string name="category_food">খাবার</string>
+    <string name="category_groceries">মুদিখানা</string>
+    <string name="category_transport">পরিবহন</string>
+    <string name="category_fuel">জ্বালানি</string>
+    <string name="category_shopping">শপিং</string>
+    <string name="category_entertainment">বিনোদন</string>
+    <string name="category_health">স্বাস্থ্য</string>
+    <string name="category_education">শিক্ষা</string>
+    <string name="category_rent">ভাড়া</string>
+    <string name="category_utilities">বিল</string>
+    <string name="category_recharge">রিচার্জ</string>
+    <string name="category_insurance">বীমা</string>
+    <string name="category_investments">বিনিয়োগ</string>
+    <string name="category_emi">EMI &amp; ঋণ</string>
+    <string name="category_personal_care">ব্যক্তিগত যত্ন</string>
+    <string name="category_clothing">পোশাক</string>
+    <string name="category_gifts">উপহার</string>
+    <string name="category_travel">ভ্রমণ</string>
+    <string name="category_subscriptions">সাবস্ক্রিপশন</string>
+    <string name="category_household">ঘরের খরচ</string>
+    <string name="category_kids">বাচ্চা</string>
+    <string name="category_pets">পোষা প্রাণী</string>
+    <string name="category_other">অন্যান্য</string>
+
+    <!-- Spending Personalities -->
+    <string name="personality_title">তোমার খরচের ব্যক্তিত্ব</string>
+    <string name="personality_saver">সঞ্চয়কারী</string>
+    <string name="personality_saver_desc">ড্রাগন যেমন সোনা রক্ষা করে, তুমি তেমন টাকা রক্ষা করো। অসাধারণ শৃঙ্খলা!</string>
+    <string name="personality_balanced">ভারসাম্যপূর্ণ</string>
+    <string name="personality_balanced_desc">বুদ্ধিমত্তার সাথে খরচ করো, নিয়মিত সঞ্চয় করো। ফাইন্যান্স ইউনিকর্ন!</string>
+    <string name="personality_impulsive">ইম্পালস কিং</string>
+    <string name="personality_impulsive_desc">দেখো, পছন্দ হয়, কিনে নাও। তোমার ওয়ালেটের commitment issues!</string>
+    <string name="personality_foodie">ফুডি</string>
+    <string name="personality_foodie_desc">তোমার পেট তোমার ফাইন্যান্সিয়াল অ্যাডভাইজার। ফুড ডেলিভারি অ্যাপ তোমাকে thank you card পাঠায়।</string>
+    <string name="personality_shopper">শপাহোলিক</string>
+    <string name="personality_shopper_desc">অনলাইন শপিং ডেলিভারি ছেলে তোমার নাম জানে। Sale সিজন তোমার উৎসব!</string>
+    <string name="personality_splurger">উইকেন্ড স্প্লার্জার</string>
+    <string name="personality_splurger_desc">সপ্তাহের দিন: তপস্বী। উইকেন্ড: পার্টি। তোমার ব্যালান্স রোলারকোস্টার!</string>
+    <string name="personality_minimalist">মিনিমালিস্ট</string>
+    <string name="personality_minimalist_desc">তুমি এতই কম খরচ করো যে তোমার ওয়ালেট নিজের কাজ ভুলে গেছে।</string>
+    <string name="personality_investor">বিনিয়োগকারী</string>
+    <string name="personality_investor_desc">Mutual funds sahi hai — তুমি সত্যিই বিশ্বাস করো। ভবিষ্যতের তুমি ধন্যবাদ বলছে!</string>
+
+    <!-- Roasts -->
+    <string name="roast_title">সাপ্তাহিক রোস্ট 🔥</string>
+    <string name="roast_new_roast">নতুন রোস্ট</string>
+    <string name="roast_share">শেয়ার</string>
+    <string name="roast_notification_title">তোমার সোমবার রোস্ট তৈরি 🔥</string>
+
+    <!-- Vault Brain Tab -->
+    <string name="vault_title">ভল্ট ব্রেইন</string>
+    <string name="vault_subtitle">তোমার প্রাইভেট ডিজিটাল লকার</string>
+    <string name="vault_search_hint">ভল্টে খুঁজুন...</string>
+    <string name="vault_empty">ভল্ট খালি আছে। ছবি, ভয়েস নোট বা টেক্সট সেভ করুন!</string>
+    <string name="vault_entry_count">ভল্টে %1$d আইটেম</string>
+    <string name="vault_add_photo">ডকুমেন্ট স্ক্যান</string>
+    <string name="vault_add_voice">ভয়েস নোট</string>
+    <string name="vault_add_text">টেক্সট নোট</string>
+    <string name="vault_capture_photo">ছবি তুলুন</string>
+    <string name="vault_pick_gallery">গ্যালারি থেকে বেছে নিন</string>
+    <string name="vault_processing_ocr">ছবি থেকে টেক্সট বের করছে...</string>
+    <string name="vault_processing_voice">ভয়েস টেক্সটে রূপান্তর করছে...</string>
+    <string name="vault_processing_tags">অটো-ট্যাগিং...</string>
+    <string name="vault_saved">ভল্টে সেভ হয়েছে!</string>
+    <string name="vault_note_title_hint">শিরোনাম (খালি রাখলে অটো)</string>
+    <string name="vault_note_content_hint">এখানে নোট লিখুন...</string>
+    <string name="vault_tags">ট্যাগ</string>
+    <string name="vault_add_tag">ট্যাগ যোগ করুন</string>
+    <string name="vault_favorite">প্রিয়</string>
+    <string name="vault_archive">আর্কাইভ</string>
+    <string name="vault_delete_confirm">এই এন্ট্রি মুছে ফেলবেন? এটি পূর্বাবস্থায় ফেরানো যাবে না।</string>
+    <string name="vault_voice_listening">শুনছে...</string>
+    <string name="vault_voice_tap_to_stop">থামাতে ট্যাপ করুন</string>
+
+    <!-- Settings -->
+    <string name="settings_title">সেটিংস</string>
+    <string name="settings_general">সাধারণ</string>
+    <string name="settings_language">ভাষা</string>
+    <string name="settings_language_desc">আপনার পছন্দের ভাষা বেছে নিন</string>
+    <string name="settings_currency">মুদ্রা</string>
+    <string name="settings_theme">থিম</string>
+    <string name="settings_theme_light">লাইট</string>
+    <string name="settings_theme_dark">ডার্ক</string>
+    <string name="settings_theme_system">সিস্টেম ডিফল্ট</string>
+    <string name="settings_notifications">নোটিফিকেশন</string>
+    <string name="settings_weekly_roast">সাপ্তাহিক রোস্ট</string>
+    <string name="settings_weekly_roast_desc">প্রতি সোমবার খরচের রোস্ট পান</string>
+    <string name="settings_budget_alerts">বাজেট অ্যালার্ট</string>
+    <string name="settings_budget_alerts_desc">খরচের গতি বাড়লে অ্যালার্ট</string>
+    <string name="settings_privacy">গোপনীয়তা &amp; নিরাপত্তা</string>
+    <string name="settings_biometric">বায়োমেট্রিক লক</string>
+    <string name="settings_biometric_desc">অ্যাপ খুলতে ফিঙ্গারপ্রিন্ট বা ফেস দরকার</string>
+    <string name="settings_data_export">ডেটা এক্সপোর্ট</string>
+    <string name="settings_data_export_desc">সব ডেটা CSV হিসেবে এক্সপোর্ট করুন</string>
+    <string name="settings_data_delete">সব ডেটা মুছুন</string>
+    <string name="settings_data_delete_desc">সঞ্চিত সব ডেটা স্থায়ীভাবে মুছুন</string>
+    <string name="settings_data_delete_confirm">নিশ্চিত? এটি সব লেনদেন, ভল্ট এন্ট্রি এবং সেটিংস মুছে দেবে। ফিরিয়ে আনা যাবে না।</string>
+    <string name="settings_about">সম্পর্কে</string>
+    <string name="settings_version">ভার্সন</string>
+    <string name="settings_privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="settings_rate_app">Paisa Brain কে রেট করুন</string>
+    <string name="settings_share_app">বন্ধুদের সাথে শেয়ার করুন</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_roast">সাপ্তাহিক রোস্ট</string>
+    <string name="notification_channel_roast_desc">প্রতি সোমবার মজার খরচ রোস্ট</string>
+    <string name="notification_channel_budget">বাজেট অ্যালার্ট</string>
+    <string name="notification_channel_budget_desc">খরচ বাজেট ছাড়ালে আগাম সতর্কতা</string>
+
+    <!-- Budget Alerts -->
+    <string name="budget_alert_urgent_title">⚠️ বাজেট ছাড়িয়ে গেছে!</string>
+    <string name="budget_alert_urgent_message">%2$s বাজেটের বিপরীতে %1$s খরচ করেছেন — %3$s বেশি! এখনো %4$d দিন বাকি। থামুন এবং পরিকল্পনা করুন।</string>
+    <string name="budget_alert_warning_title">📊 বাজেট সতর্কতা</string>
+    <string name="budget_alert_warning_message">%2$s বাজেটে %1$s খরচ হয়েছে। এই গতিতে মাসের শেষে %3$s — বাজেটের চেয়ে %4$s বেশি। প্রধান কারণ: %5$s</string>
+    <string name="budget_alert_nudge_title">💡 বাজেট চেক-ইন</string>
+    <string name="budget_alert_nudge_message">বাজেটের %1$s%% ব্যবহার করেছেন। দৈনিক গড় %2$s, %3$d দিন বাকি। স্থির থাকলে ঠিক আছে!</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Paisa Brain-এ স্বাগতম! 🧠</string>
+    <string name="onboarding_welcome_desc">তোমার ভাষায় কথা বলা, তোমার খরচকে রোস্ট করা ফাইন্যান্স অ্যাসিস্ট্যান্ট।</string>
+    <string name="onboarding_get_started">শুরু করুন</string>
+    <string name="onboarding_next">পরবর্তী</string>
+    <string name="onboarding_skip">স্কিপ</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">সেভ</string>
+    <string name="action_cancel">বাতিল</string>
+    <string name="action_delete">মুছুন</string>
+    <string name="action_edit">সম্পাদনা</string>
+    <string name="action_share">শেয়ার</string>
+    <string name="action_search">খুঁজুন</string>
+    <string name="action_filter">ফিল্টার</string>
+    <string name="action_sort">সাজান</string>
+    <string name="action_retry">আবার চেষ্টা</string>
+    <string name="action_ok">ঠিক আছে</string>
+    <string name="action_yes">হ্যাঁ</string>
+    <string name="action_no">না</string>
+    <string name="action_done">হয়েছে</string>
+    <string name="action_close">বন্ধ</string>
+    <string name="action_back">পেছনে</string>
+
+    <!-- Errors -->
+    <string name="error_generic">কিছু সমস্যা হয়েছে। আবার চেষ্টা করুন।</string>
+    <string name="error_no_camera">ক্যামেরা পাওয়া যাচ্ছে না</string>
+    <string name="error_no_microphone">মাইক্রোফোন পাওয়া যাচ্ছে না</string>
+    <string name="error_permission_camera">ডকুমেন্ট স্ক্যান করতে ক্যামেরা অনুমতি দরকার</string>
+    <string name="error_permission_microphone">ভয়েস নোটের জন্য মাইক্রোফোন অনুমতি দরকার</string>
+    <string name="error_ocr_failed">ছবি থেকে টেক্সট বের করতে ব্যর্থ</string>
+    <string name="error_transcription_failed">ভয়েস টেক্সটে রূপান্তর করতে ব্যর্থ</string>
+    <string name="error_no_speech">কথা শনাক্ত হয়নি। আবার চেষ্টা করুন।</string>
+</resources>

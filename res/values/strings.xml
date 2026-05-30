@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Paisa Brain</string>
+    <string name="app_tagline">Your money, your brain, your language</string>
+    <string name="app_description">Smart personal finance assistant for India</string>
+
+    <!-- Navigation -->
+    <string name="nav_money_brain">Money Brain</string>
+    <string name="nav_vault_brain">Vault Brain</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Money Brain Tab -->
+    <string name="money_title">Money Brain</string>
+    <string name="money_today_spend">Today\'s Spend</string>
+    <string name="money_this_month">This Month</string>
+    <string name="money_monthly_budget">Monthly Budget</string>
+    <string name="money_remaining">Remaining</string>
+    <string name="money_daily_average">Daily Average</string>
+    <string name="money_projected">Projected Month End</string>
+    <string name="money_transactions">Transactions</string>
+    <string name="money_recent_transactions">Recent Transactions</string>
+    <string name="money_all_transactions">All Transactions</string>
+    <string name="money_add_transaction">Add Transaction</string>
+    <string name="money_no_transactions">No transactions yet. Start tracking your spending!</string>
+    <string name="money_category_breakdown">Category Breakdown</string>
+    <string name="money_spending_trend">Spending Trend</string>
+    <string name="money_insights">Insights</string>
+    <string name="money_predictions">Predictions</string>
+    <string name="money_prediction_message">At this pace, you\'ll spend %1$s by month end</string>
+    <string name="money_set_budget">Set Budget</string>
+    <string name="money_budget_hint">Enter monthly budget (₹)</string>
+
+    <!-- Transaction Entry -->
+    <string name="transaction_amount">Amount (₹)</string>
+    <string name="transaction_category">Category</string>
+    <string name="transaction_merchant">Merchant / Store</string>
+    <string name="transaction_note">Note (optional)</string>
+    <string name="transaction_date">Date</string>
+    <string name="transaction_save">Save</string>
+    <string name="transaction_delete">Delete</string>
+    <string name="transaction_edit">Edit</string>
+    <string name="transaction_source_manual">Manual Entry</string>
+    <string name="transaction_source_sms">SMS Auto-detect</string>
+    <string name="transaction_source_notification">Notification Auto-detect</string>
+
+    <!-- Categories -->
+    <string name="category_food">Food &amp; Dining</string>
+    <string name="category_groceries">Groceries</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_fuel">Fuel</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_health">Health &amp; Medical</string>
+    <string name="category_education">Education</string>
+    <string name="category_rent">Rent</string>
+    <string name="category_utilities">Utilities &amp; Bills</string>
+    <string name="category_recharge">Recharge &amp; DTH</string>
+    <string name="category_insurance">Insurance</string>
+    <string name="category_investments">Investments</string>
+    <string name="category_emi">EMI &amp; Loans</string>
+    <string name="category_personal_care">Personal Care</string>
+    <string name="category_clothing">Clothing</string>
+    <string name="category_gifts">Gifts &amp; Donations</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_subscriptions">Subscriptions</string>
+    <string name="category_household">Household</string>
+    <string name="category_kids">Kids &amp; Family</string>
+    <string name="category_pets">Pets</string>
+    <string name="category_other">Other</string>
+
+    <!-- Spending Personalities -->
+    <string name="personality_title">Your Spending Personality</string>
+    <string name="personality_saver">The Saver</string>
+    <string name="personality_saver_desc">You guard your money like a dragon guards its gold. Impressive discipline!</string>
+    <string name="personality_balanced">The Balanced One</string>
+    <string name="personality_balanced_desc">You spend wisely and save consistently. The unicorn of personal finance!</string>
+    <string name="personality_impulsive">The Impulse King</string>
+    <string name="personality_impulsive_desc">You see, you like, you buy. Your wallet has commitment issues.</string>
+    <string name="personality_foodie">The Foodie</string>
+    <string name="personality_foodie_desc">Your stomach is your investment advisor. Food delivery apps send you thank-you cards.</string>
+    <string name="personality_shopper">The Shopaholic</string>
+    <string name="personality_shopper_desc">Online shopping delivery person knows your name. Sale season is your festival season.</string>
+    <string name="personality_splurger">The Weekend Splurger</string>
+    <string name="personality_splurger_desc">Weekdays: monk mode. Weekends: party mode. Your bank balance rides a rollercoaster.</string>
+    <string name="personality_minimalist">The Minimalist</string>
+    <string name="personality_minimalist_desc">You spend so little, even your wallet forgets it has a job.</string>
+    <string name="personality_investor">The Investor</string>
+    <string name="personality_investor_desc">Mutual funds sahi hai — and you actually believe it. Future you says thanks!</string>
+
+    <!-- Roasts -->
+    <string name="roast_title">Weekly Roast 🔥</string>
+    <string name="roast_new_roast">New Roast</string>
+    <string name="roast_share">Share Roast</string>
+    <string name="roast_notification_title">Your Monday Roast is Ready 🔥</string>
+
+    <!-- Vault Brain Tab -->
+    <string name="vault_title">Vault Brain</string>
+    <string name="vault_subtitle">Your private digital locker</string>
+    <string name="vault_search_hint">Search vault...</string>
+    <string name="vault_empty">Your vault is empty. Save photos, voice notes, or text!</string>
+    <string name="vault_entry_count">%1$d items in vault</string>
+    <string name="vault_add_photo">Scan Document</string>
+    <string name="vault_add_voice">Voice Note</string>
+    <string name="vault_add_text">Text Note</string>
+    <string name="vault_capture_photo">Take Photo</string>
+    <string name="vault_pick_gallery">Choose from Gallery</string>
+    <string name="vault_processing_ocr">Extracting text from image...</string>
+    <string name="vault_processing_voice">Transcribing voice...</string>
+    <string name="vault_processing_tags">Auto-tagging...</string>
+    <string name="vault_saved">Saved to vault!</string>
+    <string name="vault_note_title_hint">Title (auto-generated if empty)</string>
+    <string name="vault_note_content_hint">Write your note here...</string>
+    <string name="vault_tags">Tags</string>
+    <string name="vault_add_tag">Add tag</string>
+    <string name="vault_favorite">Favorite</string>
+    <string name="vault_archive">Archive</string>
+    <string name="vault_delete_confirm">Delete this entry? This cannot be undone.</string>
+    <string name="vault_voice_listening">Listening...</string>
+    <string name="vault_voice_tap_to_stop">Tap to stop recording</string>
+
+    <!-- Vault Tags -->
+    <string name="tag_health">Health</string>
+    <string name="tag_finance">Finance</string>
+    <string name="tag_address">Address</string>
+    <string name="tag_identity">Identity</string>
+    <string name="tag_insurance">Insurance</string>
+    <string name="tag_income">Income</string>
+    <string name="tag_education">Education</string>
+    <string name="tag_warranty">Warranty</string>
+    <string name="tag_rental">Rental</string>
+    <string name="tag_travel">Travel</string>
+    <string name="tag_recipe">Recipe</string>
+    <string name="tag_credentials">Credentials</string>
+    <string name="tag_tax">Tax</string>
+    <string name="tag_loan">Loan</string>
+    <string name="tag_banking">Banking</string>
+    <string name="tag_vehicle">Vehicle</string>
+    <string name="tag_property">Property</string>
+    <string name="tag_contact">Contact</string>
+    <string name="tag_subscription">Subscription</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_general">General</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_desc">Choose your preferred language</string>
+    <string name="settings_currency">Currency</string>
+    <string name="settings_currency_default">₹ INR</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_weekly_roast">Weekly Roast</string>
+    <string name="settings_weekly_roast_desc">Get a witty spending roast every Monday</string>
+    <string name="settings_budget_alerts">Budget Alerts</string>
+    <string name="settings_budget_alerts_desc">Get alerted when spending exceeds pace</string>
+    <string name="settings_privacy">Privacy &amp; Security</string>
+    <string name="settings_biometric">Biometric Lock</string>
+    <string name="settings_biometric_desc">Require fingerprint or face to open app</string>
+    <string name="settings_data_export">Export Data</string>
+    <string name="settings_data_export_desc">Export all data as CSV</string>
+    <string name="settings_data_delete">Delete All Data</string>
+    <string name="settings_data_delete_desc">Permanently delete all stored data</string>
+    <string name="settings_data_delete_confirm">Are you sure? This will delete all transactions, vault entries, and settings. This cannot be undone.</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_terms">Terms of Service</string>
+    <string name="settings_rate_app">Rate Paisa Brain</string>
+    <string name="settings_share_app">Share with Friends</string>
+    <string name="settings_income_bracket">Income Bracket</string>
+    <string name="settings_income_bracket_desc">Used for spending benchmarks comparison</string>
+    <string name="settings_sms_tracking">SMS Tracking</string>
+    <string name="settings_sms_tracking_desc">Auto-detect transactions from bank SMS</string>
+    <string name="settings_notification_tracking">Notification Tracking</string>
+    <string name="settings_notification_tracking_desc">Auto-detect from UPI app notifications</string>
+
+    <!-- Income Brackets -->
+    <string name="income_bracket_below_3l">Below ₹3 Lakh/year</string>
+    <string name="income_bracket_3_5l">₹3–5 Lakh/year</string>
+    <string name="income_bracket_5_10l">₹5–10 Lakh/year</string>
+    <string name="income_bracket_10_20l">₹10–20 Lakh/year</string>
+    <string name="income_bracket_20_50l">₹20–50 Lakh/year</string>
+    <string name="income_bracket_above_50l">Above ₹50 Lakh/year</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_roast">Weekly Roast</string>
+    <string name="notification_channel_roast_desc">Fun weekly spending roasts every Monday</string>
+    <string name="notification_channel_budget">Budget Alerts</string>
+    <string name="notification_channel_budget_desc">Proactive alerts when spending exceeds budget pace</string>
+    <string name="notification_channel_general">General</string>
+    <string name="notification_channel_general_desc">General app notifications</string>
+
+    <!-- Budget Alerts -->
+    <string name="budget_alert_urgent_title">⚠️ Budget Exceeded!</string>
+    <string name="budget_alert_urgent_message">You\'ve spent %1$s against your %2$s budget — that\'s %3$s over! And there are still %4$d days left this month. Time to pause and plan.</string>
+    <string name="budget_alert_warning_title">📊 Budget Warning</string>
+    <string name="budget_alert_warning_message">Spent %1$s of %2$s budget so far. At this pace, you\'ll hit %3$s by month end — %4$s over budget. Biggest culprit: %5$s</string>
+    <string name="budget_alert_nudge_title">💡 Budget Check-in</string>
+    <string name="budget_alert_nudge_message">You\'ve used %1$s%% of your budget. Daily average is %2$s with %3$d days remaining. Looking manageable if you stay steady!</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Welcome to Paisa Brain! 🧠</string>
+    <string name="onboarding_welcome_desc">Your personal finance assistant that speaks your language and roasts your spending.</string>
+    <string name="onboarding_money_title">Track Every Paisa 💰</string>
+    <string name="onboarding_money_desc">Auto-detect transactions from SMS &amp; notifications. Get insights, predictions, and personality analysis.</string>
+    <string name="onboarding_vault_title">Your Digital Vault 🔐</string>
+    <string name="onboarding_vault_desc">Scan documents, record voice notes, save important info. Everything stays on your phone, encrypted and private.</string>
+    <string name="onboarding_roast_title">Weekly Roasts 🔥</string>
+    <string name="onboarding_roast_desc">Every Monday, get a witty roast of your spending habits. Fun, non-judgmental, and surprisingly accurate.</string>
+    <string name="onboarding_privacy_title">Privacy First 🛡️</string>
+    <string name="onboarding_privacy_desc">All data stays on your device. No cloud sync. No ads. No selling your data. Period.</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_set_budget">Set your monthly budget</string>
+    <string name="onboarding_set_language">Choose your language</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_share">Share</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_ok">OK</string>
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+    <string name="action_done">Done</string>
+    <string name="action_close">Close</string>
+    <string name="action_back">Back</string>
+
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_no_camera">Camera not available</string>
+    <string name="error_no_microphone">Microphone not available</string>
+    <string name="error_permission_camera">Camera permission required to scan documents</string>
+    <string name="error_permission_microphone">Microphone permission required for voice notes</string>
+    <string name="error_permission_sms">SMS permission required for auto-tracking</string>
+    <string name="error_permission_notifications">Notification permission required for alerts</string>
+    <string name="error_ocr_failed">Failed to extract text from image</string>
+    <string name="error_transcription_failed">Failed to transcribe voice</string>
+    <string name="error_no_speech">No speech detected. Try again.</string>
+    <string name="error_offline_unavailable">Offline mode not available. Connect to internet.</string>
+
+    <!-- Empty States -->
+    <string name="empty_transactions">No transactions yet</string>
+    <string name="empty_transactions_desc">Start by adding your first expense or enable SMS tracking</string>
+    <string name="empty_vault">Your vault is empty</string>
+    <string name="empty_vault_desc">Tap + to scan a document, record a voice note, or write a text note</string>
+    <string name="empty_search">No results found</string>
+    <string name="empty_search_desc">Try different keywords</string>
+
+    <!-- Formats -->
+    <string name="format_currency">₹%1$s</string>
+    <string name="format_percentage">%1$d%%</string>
+    <string name="format_date_today">Today</string>
+    <string name="format_date_yesterday">Yesterday</string>
+    <string name="format_items_count">%1$d items</string>
+
+    <!-- Languages -->
+    <string name="language_english">English</string>
+    <string name="language_tamil">தமிழ் (Tamil)</string>
+    <string name="language_telugu">తెలుగు (Telugu)</string>
+    <string name="language_kannada">ಕನ್ನಡ (Kannada)</string>
+    <string name="language_marathi">मराठी (Marathi)</string>
+    <string name="language_bengali">বাংলা (Bengali)</string>
+    <string name="language_gujarati">ગુજરાતી (Gujarati)</string>
+    <string name="language_hindi">हिन्दी (Hindi)</string>
+</resources>

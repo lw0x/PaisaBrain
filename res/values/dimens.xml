@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing System -->
+    <dimen name="spacing_xxs">2dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xxl">48dp</dimen>
+
+    <!-- Button Heights -->
+    <dimen name="button_height_normal">48dp</dimen>
+    <dimen name="button_height_large">64dp</dimen>
+    <dimen name="button_height_xl">80dp</dimen>
+
+    <!-- Touch Targets (Accessibility) -->
+    <dimen name="touch_target_min">48dp</dimen>
+    <dimen name="touch_target_elderly">64dp</dimen>
+
+    <!-- Corner Radius -->
+    <dimen name="corner_radius_xs">4dp</dimen>
+    <dimen name="corner_radius_sm">8dp</dimen>
+    <dimen name="corner_radius_md">16dp</dimen>
+    <dimen name="corner_radius_lg">24dp</dimen>
+    <dimen name="corner_radius_full">100dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size_caption">11sp</dimen>
+    <dimen name="text_size_body_small">14sp</dimen>
+    <dimen name="text_size_body">16sp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_headline">28sp</dimen>
+    <dimen name="text_size_display">36sp</dimen>
+    <dimen name="text_size_display_large">48sp</dimen>
+
+    <!-- Elderly Mode Text -->
+    <dimen name="text_size_elderly_body">24sp</dimen>
+    <dimen name="text_size_elderly_title">32sp</dimen>
+    <dimen name="text_size_elderly_display">56sp</dimen>
+
+    <!-- Icon Sizes -->
+    <dimen name="icon_size_sm">20dp</dimen>
+    <dimen name="icon_size_md">24dp</dimen>
+    <dimen name="icon_size_lg">36dp</dimen>
+    <dimen name="icon_size_xl">48dp</dimen>
+
+    <!-- Widget -->
+    <dimen name="widget_padding">12dp</dimen>
+    <dimen name="widget_corner_radius">16dp</dimen>
+    <dimen name="widget_text_large">24sp</dimen>
+    <dimen name="widget_text_small">12sp</dimen>
+
+    <!-- Card -->
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+
+    <!-- App Bar -->
+    <dimen name="app_bar_height">56dp</dimen>
+
+    <!-- Bottom Nav -->
+    <dimen name="bottom_nav_height">80dp</dimen>
+</resources>

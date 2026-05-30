@@ -1,0 +1,196 @@
+{
+  "source": "RBI, NPCI, NSSO public data — updated May 2026",
+  "last_updated": "2026-05-19",
+  "note": "Hardcoded in app. No internet needed.",
+  "india_digital_payments_2026": {
+    "upi_monthly_transactions_billion": 22.6,
+    "upi_daily_transactions_million": 730,
+    "upi_fy26_total_lakh_crore": 314,
+    "upi_avg_ticket_size_inr": 1298,
+    "neft_avg_ticket_size_inr": 48289,
+    "digital_payments_share_percent": 93,
+    "avg_upi_transactions_per_person_month": 28,
+    "festive_peak_month": "October",
+    "festive_peak_volume_billion": 27.28,
+    "major_upi_apps_count": 6
+  },
+  "income_brackets_2026": {
+    "below_20k": {
+      "income_range": "Below ₹20,000/month",
+      "population_percent": 35,
+      "food_percent": 40,
+      "transport_percent": 8,
+      "rent_percent": 28,
+      "bills_percent": 10,
+      "entertainment_percent": 3,
+      "health_percent": 4,
+      "education_percent": 4,
+      "savings_percent": 3,
+      "food_delivery_percent": 5,
+      "emi_avg_percent": 15
+    },
+    "20k_40k": {
+      "income_range": "₹20,000 - ₹40,000/month",
+      "population_percent": 30,
+      "food_percent": 30,
+      "transport_percent": 12,
+      "rent_percent": 25,
+      "bills_percent": 8,
+      "entertainment_percent": 6,
+      "health_percent": 4,
+      "education_percent": 5,
+      "savings_percent": 10,
+      "food_delivery_percent": 12,
+      "emi_avg_percent": 22
+    },
+    "40k_75k": {
+      "income_range": "₹40,000 - ₹75,000/month",
+      "population_percent": 20,
+      "food_percent": 22,
+      "transport_percent": 10,
+      "rent_percent": 22,
+      "bills_percent": 7,
+      "entertainment_percent": 9,
+      "health_percent": 5,
+      "education_percent": 6,
+      "savings_percent": 19,
+      "food_delivery_percent": 15,
+      "emi_avg_percent": 28
+    },
+    "75k_150k": {
+      "income_range": "₹75,000 - ₹1,50,000/month",
+      "population_percent": 10,
+      "food_percent": 15,
+      "transport_percent": 8,
+      "rent_percent": 18,
+      "bills_percent": 5,
+      "entertainment_percent": 12,
+      "health_percent": 5,
+      "education_percent": 8,
+      "savings_percent": 29,
+      "food_delivery_percent": 18,
+      "emi_avg_percent": 25
+    },
+    "above_150k": {
+      "income_range": "Above ₹1,50,000/month",
+      "population_percent": 5,
+      "food_percent": 10,
+      "transport_percent": 6,
+      "rent_percent": 12,
+      "bills_percent": 4,
+      "entertainment_percent": 15,
+      "health_percent": 5,
+      "education_percent": 10,
+      "savings_percent": 38,
+      "food_delivery_percent": 12,
+      "emi_avg_percent": 18
+    }
+  },
+  "national_averages_2026": {
+    "avg_monthly_income_inr": 45000,
+    "avg_monthly_expense_inr": 32000,
+    "avg_savings_rate_percent": 12,
+    "avg_food_delivery_spend_month": 3200,
+    "avg_food_delivery_orders_month": 8,
+    "avg_food_delivery_order_value": 320,
+    "avg_subscription_count": 4.2,
+    "avg_subscription_spend_month": 950,
+    "avg_emi_count": 2.1,
+    "avg_emi_to_income_ratio": 0.26,
+    "avg_impulse_purchase_percent": 25,
+    "avg_online_shopping_spend_month": 4500,
+    "avg_cab_spend_month": 2800,
+    "avg_upi_transactions_month": 28,
+    "credit_card_penetration_percent": 8.5,
+    "bnpl_users_million": 85,
+    "personal_loan_growth_percent": 22,
+    "inflation_rate_percent": 5.2,
+    "fd_interest_rate_percent": 6.5,
+    "sip_avg_monthly_inr": 5000,
+    "mutual_fund_aum_lakh_crore": 72
+  },
+  "city_wise_2026": {
+    "mumbai": {
+      "avg_rent": 25000,
+      "avg_food_delivery": 4500,
+      "avg_transport": 3500
+    },
+    "delhi": {
+      "avg_rent": 18000,
+      "avg_food_delivery": 3800,
+      "avg_transport": 3000
+    },
+    "bangalore": {
+      "avg_rent": 22000,
+      "avg_food_delivery": 5200,
+      "avg_transport": 3200
+    },
+    "hyderabad": {
+      "avg_rent": 15000,
+      "avg_food_delivery": 3500,
+      "avg_transport": 2500
+    },
+    "chennai": {
+      "avg_rent": 14000,
+      "avg_food_delivery": 3000,
+      "avg_transport": 2200
+    },
+    "pune": {
+      "avg_rent": 16000,
+      "avg_food_delivery": 3800,
+      "avg_transport": 2800
+    },
+    "kolkata": {
+      "avg_rent": 12000,
+      "avg_food_delivery": 2500,
+      "avg_transport": 1800
+    },
+    "ahmedabad": {
+      "avg_rent": 12000,
+      "avg_food_delivery": 2200,
+      "avg_transport": 2000
+    }
+  },
+  "festive_spending_2026": {
+    "diwali_avg_spend": 18500,
+    "diwali_categories": {
+      "clothes": 35,
+      "gifts": 25,
+      "food": 20,
+      "decoration": 10,
+      "firecrackers": 10
+    },
+    "eid_avg_spend": 12000,
+    "christmas_avg_spend": 8000,
+    "wedding_season_avg_spend": 25000,
+    "republic_day_sale_avg_spend": 6500,
+    "major_ecommerce_sale_avg": 8200
+  },
+  "subscription_landscape_2026": {
+    "video_streaming_basic": 199,
+    "video_streaming_standard": 499,
+    "video_streaming_premium": 649,
+    "video_streaming_mobile": 149,
+    "video_streaming_super": 899,
+    "music_streaming_individual": 119,
+    "music_streaming_family": 179,
+    "video_platform_premium": 149,
+    "ecommerce_membership_annual": 1499,
+    "cloud_storage_basic": 75,
+    "cloud_storage_standard": 130,
+    "food_delivery_membership": 299,
+    "professional_networking": 1999,
+    "ai_assistant_premium_inr": 1680
+  },
+  "common_monthly_bills_2026": {
+    "electricity_1bhk_avg": 1500,
+    "electricity_2bhk_avg": 2500,
+    "mobile_recharge_avg": 299,
+    "broadband_avg": 699,
+    "gas_cylinder": 903,
+    "water_avg": 200,
+    "society_maintenance_avg": 3500,
+    "health_insurance_monthly_avg": 800,
+    "vehicle_insurance_monthly_avg": 600
+  }
+}
