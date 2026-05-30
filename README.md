@@ -189,38 +189,6 @@ app/src/main/java/com/paisabrain/app/
 
 ---
 
-## 🛠️ Build Instructions
-
-### Prerequisites
-- Android Studio (latest stable)
-- JDK 17+
-- Kotlin 2.0+
-
-### Build
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/paisa-brain.git
-cd paisa-brain
-
-# Open in Android Studio → File → Open → select folder
-# Sync Gradle (automatic)
-
-# Build debug APK
-./gradlew assembleDebug
-
-# Build release APK (requires signing keystore)
-./gradlew assembleRelease
-```
-
-### Create Signing Key (one time)
-```bash
-keytool -genkey -v -keystore paisa-brain-release.jks \
-  -keyalg RSA -keysize 2048 -validity 10000 \
-  -alias paisa-brain
-```
-
----
-
 ## 🌍 Supported Languages
 
 Auto-detects phone language. Manual switch in Settings.
@@ -303,7 +271,7 @@ Contributions welcome! Areas where help is appreciated:
 ## 📄 License
 
 ```
-Copyright (c) 2026 Paisa Brain. All Rights Reserved.
+Copyright (c) lwc.network. All Rights Reserved.
 
 Permission is hereby granted post approval from creator, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -321,7 +289,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 UNAUTHORIZED USE, REPRODUCTION, OR DISTRIBUTION OF THIS SOFTWARE WITHOUT
 PRIOR WRITTEN APPROVAL FROM THE CREATOR IS STRICTLY PROHIBITED.
 
-For permission requests, contact: [Your Contact Email]
+For permission requests, contact: lwc.network
 ```
 
 ---
